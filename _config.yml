@@ -40,7 +40,7 @@ author: Cengiz Kilicaslan
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2023-{currentYear} {Cengiz Kilicaslan}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   We offer high quality courses that help you become a tech professional in record time. We also help you to find a job at a great company. You only pay tuition when you get hired.
