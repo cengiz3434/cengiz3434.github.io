@@ -19,4 +19,5 @@ At TEA students take a three months intensive training for careers such as Data 
 
 ### Contact
 
-E-mail address:cengiz.kilicasllan3434@gmail.com Phone:+905319172329 Linkedin:(https://www.linkedin.com/in/cengizkilicaslan)https://www.linkedin.com/in/cengizkilicaslan 
+E-mail address:cengiz.kilicasllan3434@gmail.com Phone:+905319172329 Linkedin: [
+](https://www.linkedin.com/in/cengizkilicaslan)https://www.linkedin.com/in/cengizkilicaslan
