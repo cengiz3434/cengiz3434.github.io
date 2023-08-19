@@ -3,9 +3,9 @@ layout: about
 title: About
 ---
 
-## Welcome to Tech Expert Academy
+## Welcome to My Life
 
-### Why
+### Who I am?
 
 While companies are desperately looking for tech talent, many people are either unemployed or they work in unfulfilling jobs. We want to be the match maker between these two parties. 
 
@@ -19,4 +19,4 @@ At TEA students take a three months intensive training for careers such as Data 
 
 ### Contact
 
-E-mail address:cengiz.kilicasllan3434@gmail.com                                                                                    Linkedin:(https://www.linkedin.com/in/cengizkilicaslan)https://www.linkedin.com/in/cengizkilicaslan Phone:+905319172329 
+E-mail address:cengiz.kilicasllan3434@gmail.com Phone:+905319172329 Linkedin:(https://www.linkedin.com/in/cengizkilicaslan)https://www.linkedin.com/in/cengizkilicaslan 
