@@ -19,4 +19,5 @@ At TEA students take a three months intensive training for careers such as Data 
 
 ### Contact
 
-You are interested? Check out our [website](https://techexpertacademy.com). If you like what we are doing, [send us](https://www.techexpertacademy.com/#contact-form-main) a link to your GitHub Page and we’ll get back to you soon. Follow us on [LinkedIn](https://de.linkedin.com/company/tech-expert-academy?trk=public_profile_topcard-current-company).
+E-mail address:cengiz.kilicasllan3434@gmail.com                                                                                     
+Linkedin:(https://www.linkedin.com/in/cengizkilicaslan)https://www.linkedin.com/in/cengizkilicaslan 
