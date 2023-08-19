@@ -5,7 +5,11 @@
   img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
   text: English
 
-- lang: fr
+-lang: tr
+  img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+  text: Turkish
+  
+  -lang: fr
   img: https://cdn.countryflags.com/thumbs/france/flag-400.png
   text: French
 
